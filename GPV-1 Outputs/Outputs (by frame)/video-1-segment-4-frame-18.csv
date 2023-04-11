@@ -1,0 +1,91 @@
+Object,GPV-1 Prediction
+Accent Paving,1
+Barrier Post,1
+Barrier Stump,1
+Bench,0
+Bicycle,0
+Brick,0
+Bridge,1
+Building,1
+Bus,0
+Bus Stop,0
+Car,1
+Chair,0
+Closed Sidewalk,1
+Cloudy,0
+Counter,0
+Crosswalk,1
+Curb,1
+Day,1
+Dog,0
+Driveway(flat),1
+Elevator,0
+Escalator,1
+Fence,1
+Fire hydrant,0
+Flush Door,0
+Foldout Sign,0
+Fountain,0
+Gate,1
+Guide dog,0
+Gutter,1
+Hose,0
+Jaywalker,0
+Lamp Post,0
+Mail box,1
+Maintenance Vehicle,1
+Motorcycle,0
+Night,0
+Obstacle on the sidewalk,1
+Obstacle on the street,1
+Parallel Parking Spot,1
+Paratransit vehicle,0
+Pedestrian Crossing,1
+Person,1
+Person with a disability,1
+Pillar,0
+Pole,1
+Puddle,1
+Push button,0
+Railing,1
+Raining,0
+Raised Entryway,1
+Retaining Wall,1
+Road,1
+Road Divider,1
+Road Shoulder,1
+Roadside Parking,1
+Sidewalk,1
+Sidewalk pits,1
+Sign,0
+Sign Post,1
+Sloped Driveway,1
+Slopped Curb,0
+Snow,1
+Stairs,1
+Stone Block,0
+Stop sign,0
+Street Vendor,0
+Sunny,0
+Table,1
+Tactile Paving,1
+Traffic Signals,0
+Train Platform,1
+Train Tracks,1
+Trash bins,0
+Trash on roads,0
+Tree,1
+Turnstile,0
+Uncontrolled Crossing,0
+Uneven Stairs,1
+Unpaved Road,1
+Unpaved Sidewalk,1
+Vegetation,1
+Wall,1
+Water leakage,0
+Water Pipes,0
+Wet surface,1
+Wheelchair,1
+White Cane,1
+Yard Waste,0
+Zebra Crossing,0
