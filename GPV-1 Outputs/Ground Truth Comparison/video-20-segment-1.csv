@@ -1,0 +1,80 @@
+Object,Frame-0,Frame-1,Frame-2,Frame-3,Frame-4,Frame-5,Frame-6
+Accent Paving,TP,TP,TP,TP,TP,FN,TP
+Barrier Post,FP,FP,TN,TN,FP,FP,TN
+Barrier Stump,TN,FP,TN,TN,TN,TN,TN
+Bench,TN,TN,TN,TN,TN,TN,TN
+Bicycle,TN,TN,TN,TN,TN,TN,TN
+Bridge,TN,TN,TN,TN,TN,TN,TN
+Building,TP,TP,TP,TP,TP,TP,TP
+Bus,TN,FP,TN,TN,TN,TN,TN
+Bus Stop,FP,FP,TN,FP,TN,FP,FP
+Car,TP,TP,TP,FN,TP,TP,TP
+Chair,FP,TN,TN,TN,TN,TN,TN
+Closed Sidewalk,FP,FP,FP,FP,FP,FP,FP
+Counter,FP,TN,TN,TN,TN,TN,TN
+Crosswalk,FP,TN,FP,TN,TN,TN,TN
+Curb,FN,FN,FN,FN,TP,FN,TP
+Dog,TN,TN,TN,TN,TN,TN,TN
+Driveway(flat),FP,FP,FP,FP,FP,FP,TN
+Elevator,FP,TN,TN,TN,TN,TN,TN
+Escalator,FP,FP,TN,FP,TN,FP,FP
+Fence,FP,FP,TN,TN,TN,TN,TN
+Fire hydrant,TN,TN,TN,TN,TN,TN,TN
+Flush Door,FP,FP,TN,TN,TN,TN,TN
+Foldout Sign,FP,FP,FP,FP,FP,FP,FP
+Fountain,FP,FP,TN,TN,TN,TN,TN
+Gate,FP,FP,TN,TN,TN,TN,TN
+Guide dog,TN,TN,TN,TN,TN,TN,TN
+Gutter,TN,FP,FP,TN,TN,TN,TN
+Hose,FP,FP,FP,FP,TN,FP,FP
+Lamp Post,TP,FP,TN,FN,FN,TP,FN
+Mail box,FP,FP,FP,FP,TN,FP,TN
+Maintenance Vehicle,FP,FP,FP,FP,FP,FP,FP
+Motorcycle,TN,TN,TN,TN,TN,TN,TN
+Parallel Parking Spot,FP,TN,FP,FP,FP,FP,FP
+Paratransit vehicle,FP,FP,FP,FP,FP,FP,TN
+Pedestrian Crossing,FP,TN,TN,TN,FP,TN,TN
+Person,TP,TP,TP,TP,TP,TP,TP
+Person with a disability,TP,TP,FN,TP,FN,FN,FN
+Pillar,FP,FP,TN,TN,TN,TN,TN
+Pole,FP,FP,FP,FP,FP,FP,FP
+Puddle,TN,FP,TN,FP,TN,TN,TN
+Push button,FP,FP,TN,TN,TN,FP,TN
+Railing,TN,FP,TN,TN,TN,TN,TN
+Raised Entryway,FP,FP,TN,TN,TN,TN,TN
+Retaining Wall,FP,FP,TN,TN,FP,TN,TN
+Road,TP,FN,TP,TP,TP,TP,TP
+Road Divider,TN,TN,FP,TN,FP,TN,TN
+Road Shoulder,TN,TN,FP,FP,FP,TN,FP
+Roadside Parking,FP,FP,FP,FP,FP,FP,FP
+Sidewalk,TP,TP,TP,TP,TP,TP,TP
+Sidewalk pits,TP,TP,TP,TP,TP,TP,TP
+Sign,FP,FP,FP,FP,FP,FP,TN
+Sign Post,FP,FP,TN,FP,FP,FP,TN
+Sloped Driveway,TN,FP,FP,FP,FP,TN,TN
+Slopped Curb,FP,FP,FP,FP,FP,FP,FP
+Snow,TN,FP,FP,FP,FP,FP,FP
+Stairs,TN,TN,TN,TN,TN,TN,TN
+Stop sign,FP,FP,TN,FP,TN,FP,TN
+Street Vendor,FP,FP,TN,TN,FP,FP,TN
+Table,TN,TN,TN,TN,TN,TN,TN
+Tactile Paving,FP,FP,FP,FP,FP,FP,FP
+Traffic Signals,FN,FN,FN,TP,TP,TP,FN
+Train Platform,TN,TN,FP,TN,TN,TN,TN
+Train Tracks,TN,TN,FP,TN,TN,TN,TN
+Trash bins,FP,FP,TN,TN,TN,TN,TN
+Trash on roads,TN,FP,TN,FP,TN,TN,TN
+Tree,TP,TP,TP,TP,TP,TP,TP
+Turnstile,FP,FP,TN,FP,FP,FP,TN
+Uncontrolled Crossing,TN,TN,TN,TN,TN,TN,TN
+Uneven Stairs,TN,FP,TN,TN,TN,TN,TN
+Unpaved Road,TN,TN,FP,TN,FP,TN,TN
+Unpaved Sidewalk,FP,FP,FP,FP,FP,FP,FP
+Vegetation,TP,TP,TP,TP,TP,TP,TP
+Wall,TP,TP,TP,FN,TP,TP,TP
+Water leakage,TN,FP,TN,TN,TN,TN,TN
+Water Pipes,FP,FP,FP,TN,TN,TN,TN
+Wet surface,TN,TN,TN,TN,TN,TN,TN
+Wheelchair,FP,TN,TN,TN,TN,TN,TN
+White Cane,TP,TP,FN,FN,FN,FN,TN
+Yard Waste,FP,FP,TN,FP,TN,TN,TN

@@ -1,0 +1,91 @@
+Object,Frame-0,Frame-1,Frame-2,Frame-3,Frame-4
+Accent Paving,1,1,1,1,1
+Barrier Post,1,1,1,1,1
+Barrier Stump,0,1,0,0,0
+Bench,0,0,0,0,1
+Bicycle,0,0,0,0,0
+Brick,0,0,0,1,1
+Bridge,0,0,0,0,1
+Building,1,1,1,1,1
+Bus,0,0,0,1,0
+Bus Stop,1,1,0,1,0
+Car,1,1,1,0,0
+Chair,0,0,0,0,1
+Closed Sidewalk,1,1,1,1,1
+Cloudy,1,1,1,0,1
+Counter,1,1,1,1,1
+Crosswalk,0,1,0,0,1
+Curb,1,1,0,0,1
+Day,0,0,1,1,0
+Dog,0,0,0,0,0
+Driveway(flat),1,1,1,1,0
+Elevator,0,1,0,1,1
+Escalator,1,1,0,1,1
+Fence,0,1,1,1,0
+Fire hydrant,0,0,0,0,0
+Flush Door,0,1,0,1,1
+Foldout Sign,1,0,1,1,1
+Fountain,1,1,0,1,0
+Gate,0,1,0,1,1
+Guide dog,0,0,0,0,0
+Gutter,0,1,0,1,1
+Hose,1,1,0,0,1
+Jaywalker,0,1,0,0,1
+Lamp Post,1,1,0,1,0
+Mail box,1,1,0,1,1
+Maintenance Vehicle,0,1,0,0,0
+Motorcycle,0,0,0,0,0
+Night,0,1,0,0,1
+Obstacle on the sidewalk,0,1,1,1,1
+Obstacle on the street,1,1,0,1,1
+Parallel Parking Spot,1,1,0,0,1
+Paratransit vehicle,0,1,0,0,0
+Pedestrian Crossing,1,1,0,0,1
+Person,1,1,1,1,1
+Person with a disability,0,1,1,1,1
+Pillar,0,0,1,1,1
+Pole,0,1,0,0,1
+Puddle,0,1,0,1,1
+Push button,0,1,1,1,1
+Railing,0,0,1,1,1
+Raining,0,1,0,0,0
+Raised Entryway,0,0,1,1,1
+Retaining Wall,0,0,1,1,1
+Road,1,1,0,1,1
+Road Divider,1,1,0,0,1
+Road Shoulder,1,1,0,0,1
+Roadside Parking,1,1,0,0,0
+Sidewalk,1,1,1,0,1
+Sidewalk pits,0,1,1,0,1
+Sign,1,1,1,1,0
+Sign Post,1,1,1,1,0
+Sloped Driveway,1,1,1,1,1
+Slopped Curb,0,1,0,1,1
+Snow,0,1,0,0,0
+Stairs,0,0,0,0,1
+Stone Block,0,1,0,1,1
+Stop sign,1,0,0,0,0
+Street Vendor,1,1,0,1,0
+Sunny,0,0,1,1,0
+Table,0,0,0,0,1
+Tactile Paving,0,0,1,1,1
+Traffic Signals,1,1,0,0,0
+Train Platform,0,0,0,0,0
+Train Tracks,0,0,0,0,0
+Trash bins,0,1,0,0,0
+Trash on roads,0,1,0,0,0
+Tree,1,0,1,1,0
+Turnstile,1,1,0,0,1
+Uncontrolled Crossing,0,0,0,1,1
+Uneven Stairs,0,1,0,0,1
+Unpaved Road,1,1,0,0,1
+Unpaved Sidewalk,1,1,1,0,1
+Vegetation,1,0,1,1,0
+Wall,0,1,1,1,1
+Water leakage,0,1,0,1,1
+Water Pipes,0,0,0,1,1
+Wet surface,0,1,0,1,1
+Wheelchair,0,0,0,0,1
+White Cane,0,1,0,1,1
+Yard Waste,0,1,0,0,0
+Zebra Crossing,0,0,0,0,1
